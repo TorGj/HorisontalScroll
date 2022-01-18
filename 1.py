@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify, make_response
 import random
 import time
-# kommentar
+# kommentar 2
 app = Flask(__name__)
 
 heading = "Lorem ipsum dolor sit amet."
